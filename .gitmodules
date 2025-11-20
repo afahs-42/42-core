@@ -1,3 +1,6 @@
 [submodule "push_swap"]
 	path = push_swap
 	url = git@github.com:afahs-42/push_swap.git
+[submodule "get_next_line"]
+	path = get_next_line
+	url = git@github.com:afahs-42/get_next_line.git
