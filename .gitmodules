@@ -7,3 +7,6 @@
 [submodule "philosophers"]
 	path = philosophers
 	url = git@github.com:afahs-42/philosophers.git
+[submodule "CyberSecurity-Piscine"]
+	path = CyberSecurity-Piscine
+	url = git@github.com:afahs-42/CyberSecurity-Piscine.git
